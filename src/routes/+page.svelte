@@ -228,7 +228,7 @@
 
 		<p class="text-text-100">Made by me with Svelte + TailwindCSS.</p>
 		<div class="flex flex-col place-items-center mt-2">
-			<a href="https://tailwindcss.com/docs/container">
+			<a href="https://github.com/mmogaP/moragadev.me">
 				<img src="/code.svg" alt="Svelte" class="w-8 h-8 cursor-pointer" />
 			</a>
 			<p class="text-accent-100">(source code)</p>
