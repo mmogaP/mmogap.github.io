@@ -115,7 +115,7 @@
 			</div>
 
 			<!-- twitter -->
-			<div
+			<!-- <div
 				class="border border-bg-300 bg-bg-200 rounded-[20px] px-5 py-8 sm:p-8 w-full transition duration-200 hover:shadow-sm"
 			>
 				<div class="flex items-center">
@@ -148,7 +148,7 @@
 						<img src="/link.svg" alt="Link icon" class="w-7 h-7" />
 					</div>
 				</div>
-			</div>
+			</div> -->
 
 			<!-- Instagram -->
 			<div
