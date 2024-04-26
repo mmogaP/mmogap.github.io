@@ -158,7 +158,7 @@
 					<img src="/insta.svg" alt="Instagram" class="w-12 h-12 mr-4 shrink-0" />
 					<div>
 						<h2 class="text-text-100">Instagram</h2>
-						<p class="text-sm text-text-200">@tech_mmoraga</p>
+						<p class="text-sm text-text-200">@mauriciomoraga.tech</p>
 					</div>
 					<div
 						class="
