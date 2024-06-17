@@ -115,7 +115,7 @@
 			</div>
 
 			<!-- twitter -->
-			<!-- <div
+			<div
 				class="border border-bg-300 bg-bg-200 rounded-[20px] px-5 py-8 sm:p-8 w-full transition duration-200 hover:shadow-sm"
 			>
 				<div class="flex items-center">
@@ -148,7 +148,7 @@
 						<img src="/link.svg" alt="Link icon" class="w-7 h-7" />
 					</div>
 				</div>
-			</div> -->
+			</div>
 
 			<!-- Instagram -->
 			<div
@@ -158,7 +158,7 @@
 					<img src="/insta.svg" alt="Instagram" class="w-12 h-12 mr-4 shrink-0" />
 					<div>
 						<h2 class="text-text-100">Instagram</h2>
-						<p class="text-sm text-text-200">@mauriciomoraga.tech</p>
+						<p class="text-sm text-text-200">@mm0raga</p>
 					</div>
 					<div
 						class="
@@ -226,12 +226,12 @@
 		<!-- linea separadora -->
 		<div class="w-full h-0.5 bg-bg-300 my-8 mb-8"></div>
 
-		<p class="text-text-100">Made by me with Svelte + TailwindCSS.</p>
+		<p class="text-text-100">Made by me with Sveltekit + TailwindCSS.</p>
 		<div class="flex flex-col place-items-center mt-2">
-			<a href="https://github.com/mmogaP/moragadev.me">
+			<a class="flex flex-col items-center" href="https://github.com/mmogaP/moragadev.me">
 				<img src="/code.svg" alt="Svelte" class="w-8 h-8 cursor-pointer" />
+				<p class="text-accent-100">(source code)</p>
 			</a>
-			<p class="text-accent-100">(source code)</p>
 		</div>
 	</div>
 </div>
